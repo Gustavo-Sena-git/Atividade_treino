@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <form action="formAluno" method="POST">
+    <form action="../service/cadastro.php" method="POST">
         Nome: <input type="text" name="nome"><br>
         Email: <input type="text" name="email"><br>
         Idade: <input type="text" name="idade"><br>
